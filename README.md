@@ -1,1 +1,1 @@
-# vjezbe
+# exercises
